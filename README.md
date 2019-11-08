@@ -1,4 +1,4 @@
-# PolitiqueDeConfidentialiteRappelAnniversaires
+# Politique de confidentialité de Rappel Anniversaires
 
 1.Collecte de l’information
 Lorsque vous ajouter une date d'anniversaire, nous enrregistrons cette information dans une base de donnée. Nous utilisons l'identifiant de votre appareil Alexa pour vous identifier.
